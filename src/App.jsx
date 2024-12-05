@@ -5,7 +5,7 @@ const lists = [
   {
     id: crypto.randomUUID(),
     name: "Winter's Orbit",
-    rating: 5,
+    rating: 4,
   },
   {
     id: crypto.randomUUID(),
@@ -15,17 +15,17 @@ const lists = [
   {
     id: crypto.randomUUID(),
     name: 'Words And Things',
-    rating: 0,
+    rating: 4,
   },
   {
     id: crypto.randomUUID(),
     name: 'The Galaxy, And The Ground Within',
-    rating: 5,
+    rating: 4,
   },
   {
     id: crypto.randomUUID(),
     name: 'Setemi the Instructor',
-    rating: 1,
+    rating: 4,
   },
   {
     id: crypto.randomUUID(),
